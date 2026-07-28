@@ -79,3 +79,26 @@ DSA-Preparation/
 - Writing decision-making programs using `if`, `if-else`, and `else-if`
 - Using loops to solve repetitive problems
 - Building logic for beginner pattern-printing problems
+
+
+# Day 3 – Functions
+
+## Topics Covered
+- Function declaration
+- Function definition
+- Function call
+- Parameters and arguments
+- Return values
+- Different types of functions
+
+## Practice Problems
+- Maximum of two numbers
+- Maximum of three numbers
+- Even or odd
+- Prime number
+- Factorial
+- Sum of digits
+- Reverse a number
+
+## Goal
+To understand how functions work in C++ and use them to solve basic programming problems.
