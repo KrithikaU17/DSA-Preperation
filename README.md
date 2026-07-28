@@ -39,7 +39,43 @@ DSA-Preparation/
 - ✅ Swap with Temporary Variable
 - ✅ Swap without Temporary Variable
 
-More solutions will be added daily.
 
----
+
 ⭐ Consistency over perfection.
+
+
+### Day 2
+**Topics Covered**
+- Operators
+- Relational Operators
+- Logical Operators
+- if Statement
+- if-else Statement
+- else-if Ladder
+- Nested if
+- for Loop
+- while Loop
+- do-while Loop
+
+**Programs Completed**
+- ✅ Even or Odd
+- ✅ Positive, Negative or Zero
+- ✅ Largest of Two Numbers
+- ✅ Largest of Three Numbers
+- ✅ Simple Calculator
+- ✅ Leap Year Checker
+- ✅ Print Numbers from 1 to N
+- ✅ Print Numbers from N to 1
+- ✅ Sum of First N Natural Numbers
+- ✅ Multiplication Table
+
+**Pattern Printing**
+- ✅ Right Triangle (`*`)
+- ✅ Inverted Triangle (`*`)
+- ✅ Number Triangle
+- ✅ Inverted Number Triangle
+
+**Skills Learned**
+- Writing decision-making programs using `if`, `if-else`, and `else-if`
+- Using loops to solve repetitive problems
+- Building logic for beginner pattern-printing problems
